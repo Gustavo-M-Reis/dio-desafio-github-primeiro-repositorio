@@ -1,0 +1,23 @@
+Comando git terminal até então:
+git status
+git add
+	add PATH
+	add -a
+	add *
+	add ARQ
+git init
+git commit -m ""
+git push -u origin main
+git remote add origin URL
+git branch -M main
+git echo ""> NOME.EXT
+git ls
+git rm
+git move ARQUIVO LOCAL
+git dir
+git mkdir
+tecla tab: Preen. auto
+git config --list
+
+
+
